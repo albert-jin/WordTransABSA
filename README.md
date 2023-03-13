@@ -4,7 +4,7 @@ Target Word Transferred Language Model for tackling ABSA (WordTransABSA)
 :star: :star: :star: :star: :star:
 > Word Transferred Language Model for Aspect-based Sentiment Analysis]{WordTransABSA: A Novel BERT-based Aspect-based Sentiment Analysis Approach by Utilizing ``Masked Language Model'' to Predict Affective Tokens for Target Words :smiley:
 
-[![](/assets/wordtransabsa.pdf "Model Architecture of WordTransABSA")][Model Architecture of WordTransABSA]
+[![](/assets/wordtransabsa.PNG "Model Architecture of WordTransABSA")][Model Architecture of WordTransABSA]
 
 ```angular2html
 > In order to alleviate the limitations of mainstream fine-tuning methods, we propose Target Word Transferred ABSA (WordTransABSA). WordTransABSA subverts the conventional criterion of Transformerbased fine-tuning methods by utilizing the entire parameters in Transformer, to fully exploit the prior knowledge in Transformer.
